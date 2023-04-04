@@ -1,0 +1,1 @@
+SET PASSWORD FOR '261750' = 'Marek750';

@@ -1,0 +1,1 @@
+DELETE FROM aparat WHERE producent IN (SELECT ID FROM producent WHERE kraj = 'Chiny');

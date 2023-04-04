@@ -1,0 +1,1 @@
+CALL podwyzka('informatyk');

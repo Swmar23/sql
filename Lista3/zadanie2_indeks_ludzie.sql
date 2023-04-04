@@ -1,0 +1,1 @@
+CREATE INDEX indeks_ludzie ON ludzie(plec,imie);

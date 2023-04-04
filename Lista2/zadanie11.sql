@@ -1,0 +1,1 @@
+ALTER TABLE producent ADD COLUMN liczbaModeli INT NOT NULL DEFAULT 0;

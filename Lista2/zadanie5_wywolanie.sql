@@ -1,0 +1,1 @@
+SELECT najwiekszaMatryca (12);

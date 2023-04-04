@@ -1,0 +1,1 @@
+SELECT liczbaAparatowZMatryca (112);

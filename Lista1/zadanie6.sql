@@ -1,0 +1,1 @@
+SELECT rating, COUNT(rating) FROM sakila.film GROUP BY rating;
